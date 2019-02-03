@@ -1,7 +1,28 @@
 import java.util.Scanner;
 
-
-public class PrimeChecker {
+public class Main {
+	// checking method
+	static void checkIfPrime(int number) {
+		// flag
+		int flag = 0;
+		// loop limiter
+		int limit = number / 2;
+		if (number == 0 || number == 1) {
+			System.out.println("NIE");
+		} else {
+			// start with 2 (first prime num)
+			for (int i = 2; i <= limit; i++) {
+				if (number % i == 0) {
+					System.out.println("NIE");
+					flag = 1;
+					break;
+				}
+			}
+			if (flag == 0) {
+				System.out.println("TAK");
+			}
+		}
+	}
 
 	public static void main(String[] args) throws java.lang.Exception {
 
@@ -24,17 +45,7 @@ public class PrimeChecker {
 
 //			System.out.println("Enter your num: ");
 			int num = scan.nextInt();
-			if (num == 1 
-					|| (num % 2 == 0 && num != 2) 
-					|| (num % 3 == 0 && num != 3) 
-					|| (num % 5 == 0 && num != 5) 
-					|| (num % 7 == 0 && num != 7)) 
-			{
-				System.out.println("NIE");
-			} else {
-				System.out.println("TAK");
-			};
+			checkIfPrime(num);
 		}
-		scan.close();
 	}
 }
