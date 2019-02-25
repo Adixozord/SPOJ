@@ -1,6 +1,13 @@
 import java.util.Scanner;
 import java.util.Stack;
 
+/* Program that takes user input as infix arithmetic expression and 
+converts it to postfix
+Created by - Adrian F.
+with Stackoverflow help
+*/
+
+
 class InfixToPostfix {
 	// A utility function to return precedence of a given operator
 	// Higher returned value means higher precedence
