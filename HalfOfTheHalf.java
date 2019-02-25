@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+/* this program takes users input and returns every 2nd character of half of the string 
+Created by - Adrian F.
+*/
+
 public class HalfOfTheHalf {
 	
 		public static void main(String[] args) throws java.lang.Exception {
