@@ -1,115 +1,109 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.math.BigDecimal;
+import java.util.Stack;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 class SimpleArithmetics {
 
-	public static void main(String[] args) {
+	static Pattern p = Pattern.compile("(\\d+)(\\+|\\-|\\*)(\\d+)");
+	static Matcher m = null;
 
-		Scanner scan = new Scanner(System.in);
+	public static void main(String args[]) {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int t = 0;
 
-		Pattern regex = Pattern.compile("[*+-]");
+		Stack<String> operations = new Stack<String>();
 
-		int cases = scan.nextInt();
-		scan.nextLine();
+		try {
+			t = Integer.parseInt(br.readLine());
 
-		while (cases > 0) {
-
-			String input = scan.nextLine();
-
-			long first = Integer.parseInt(input.substring(0, indexOf(regex, input)));
-			String operator = Character.toString(input.charAt(indexOf(regex, input)));
-			long second = Integer.parseInt(input.substring(indexOf(regex, input) + 1, input.length()));
-			long result = 0;
-
-			int firstLineLength = String.valueOf(first).length();
-			int secondLineLength = String.valueOf(second).length();
-
-			int repeats = secondLineLength;
-			int[] expressions = new int[repeats];
-
-			switch (operator.charAt(0)) {
-			case '+':
-				result += first + second;
-				break;
-			case '*':
-
-				for (int i = repeats - 1; i >= 0; i--) {
-
-					int reversedIndex = 0;
-					expressions[i] = (int) (first * Character.getNumericValue(Integer.toString((int) second).charAt(i)));
-				}
-				result += first * second;
-				break;
-			case '-':
-				result += first - second;
-				break;
-			case '/':
-				result += first / second;
-				break;
+			while (t > 0) {
+				operations.push(br.readLine());
+				t--;
 			}
-			String firstLine = "";
-			String secondLine = "";
 
-			if (operator.charAt(0) != '*') {
-				if (firstLineLength > secondLineLength) {
-					for (int filler = 0; filler < firstLineLength - secondLineLength - 1; filler++) {
-						secondLine += " ";
-					}
-
-				} else {
-					for (int filler = 0; filler <= secondLineLength - firstLineLength; filler++) {
-						firstLine += " ";
-					}
-				}
-				secondLine += operator + second;
-				firstLine += first;
-
-				System.out.println(firstLine);
-				System.out.println(secondLine);
-				createLine(0, secondLine.length());
-				System.out.println(result);
-			} else {
-				if (firstLineLength > secondLineLength) {
-					for (int filler = 0; filler < firstLineLength - secondLineLength + expressions.length; filler++) {
-						secondLine += " ";
-						firstLine += " ";
-					}
-				} else {
-					for (int filler = 0; filler <= secondLineLength - firstLineLength + expressions.length
-							- 1; filler++) {
-						firstLine += " ";
-						secondLine += " ";
-					}
-				}
-				secondLine += operator + second;
-				firstLine += first;
-				System.out.println(firstLine);
-				System.out.println(secondLine);
-				createLine(expressions.length + 1, secondLine.length());
-				for (int i = expressions.length - 1; i >= 0; i--) {
-//					createLine()
-					System.out.println(expressions[i]);
-				}
-				createLine(0, String.valueOf(result).length());
-				System.out.println(result);
-
+			for (String s : operations) {
+				procesor(s);
+				System.out.println();
 			}
-			System.out.println("");
-			cases--;
+
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 	}
 
-	private static void createLine(int start, int length) {
-		String line = "";
-		for (int i = 0; i < length; i++) {
-			line += (i < start) ? " " : "-";
+	public static void procesor(String operation) {
+		BigDecimal firstOperand, secondOperand, result, tempResult, tempNum;
+		String operator, operandStr = "";
+		int largeLine = 0, largeResult = 0;
+
+		m = p.matcher(operation);
+		m.matches();
+
+		firstOperand = new BigDecimal(m.group(1));
+		secondOperand = new BigDecimal(m.group(3));
+		operator = m.group(2);
+
+		operandStr = operator + secondOperand.toPlainString();
+
+		if (!operator.equals("*")) {
+			if (operator.equals("-")) {
+				secondOperand = secondOperand.negate();
+			}
+			result = firstOperand.add(secondOperand);
+
+			largeResult = result.toPlainString().length();
+			largeLine = Math.max(operandStr.length(), largeResult);
+
+			System.out.println(padLeft(firstOperand.toPlainString(), largeLine));
+			System.out.println(padLeft(operandStr, largeLine));
+			System.out.println(line(largeLine));
+			System.out.println(padLeft(result, largeLine));
+
+		} else {
+			result = firstOperand.multiply(secondOperand);
+
+			largeResult = result.toPlainString().length();
+			largeLine = Math.max(firstOperand.toPlainString().length(), operandStr.length());
+
+			System.out.println(padLeft(firstOperand.toPlainString(), largeResult));
+			System.out.println(padLeft(operandStr, largeResult));
+
+			int n = operandStr.length();
+			boolean hayLine = false;
+			if (n > 2) {
+				int k = 0;
+				for (int i = n - 1; i >= 1; i--) {
+					tempNum = new BigDecimal(operandStr.charAt(i) + "");
+					tempResult = firstOperand.multiply(tempNum);
+					if (!hayLine) {
+						hayLine = true;
+						largeLine = Math.max(operandStr.length(), tempResult.toPlainString().length());
+						System.out.println(padLeft(line(largeLine), largeResult));
+					}
+
+					System.out.println(padLeft(tempResult, largeResult - (k++)));
+				}
+			}
+
+			System.out.println(line(largeResult));
+			System.out.println(result);
 		}
-		System.out.println(line);
 	}
 
-	public static int indexOf(Pattern pattern, String string) {
-		Matcher matcher = pattern.matcher(string);
-		return matcher.find() ? matcher.start() : -1;
+	public static String line(int n) {
+		return String.format(String.format("%%0%dd", n), 0).replace("0", "-");
+	}
+
+	public static String padLeft(String s, int n) {
+		return String.format("%1$" + n + "s", s);
+	}
+
+	public static String padLeft(BigDecimal bd, int n) {
+		return padLeft(bd.toPlainString(), n);
 	}
 }
