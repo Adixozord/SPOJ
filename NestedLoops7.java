@@ -19,24 +19,19 @@ class NestedLoops7 {
 
 			int mod1 = size - 1;
 			int mod2 = size;
-			
 
 			for (int k = 0; k < rows; k++) {
-				
 				String oneRow = "";
 
 				for (int i = 0; i < columns; i++) {
-					
+
 					if (mod1 == (k + i) % tmp) {
-					
 						oneRow += '/';
-					
+
 					} else if (mod2 == Math.abs(k - i) % tmp) {
-					
 						oneRow += '\\';
-					
+
 					} else {
-					
 						oneRow += '.';
 					}
 				}
