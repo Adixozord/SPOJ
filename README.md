@@ -23,9 +23,9 @@ Sphere online judge challenges and riddles
 |626|[Obżartuchy](https://pl.spoj.com/problems/GLUTTON/)|[Gluttons.java](https://github.com/Adixozord/SPOJ/blob/master/Gluttons.java)|
 |663|[Sort1](https://pl.spoj.com/problems/PP0506A/)|[Sort1.java](https://github.com/Adixozord/SPOJ/blob/master/Sort1.java)|
 |675|[SkarbFinder](https://pl.spoj.com/problems/SKARBFI/)|[TreasureFinder.java](https://github.com/Adixozord/SPOJ/blob/master/TreasureFinder.java)|
-| 997                     | [Calculator](https://pl.spoj.com/problems/CALC/)                     | [Calc](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
+|997|[Calculator](https://pl.spoj.com/problems/CALC/)|[Calc.java](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
-| 2730                    | [Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)| [AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
+|2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
 |12156|[HalfOfTheHalf](https://www.spoj.com/problems/STRHH/)|[HalfOfTheHalf.java](https://github.com/Adixozord/SPOJ/blob/master/HalfOfTheHalf.java)|
 |12205|[MinimumBoundingRectangle](https://www.spoj.com/problems/HS12MBR/)|[MinimumBoundingRectangle.java](https://github.com/Adixozord/SPOJ/blob/master/MinimumBoundingRectangle.java)|
 |12176|[Character Patterns (Act 1)](https://www.spoj.com/problems/CPTTRN1/)|[NestedLoops1.java](https://github.com/Adixozord/SPOJ/blob/master/NestedLoops1.java)|
