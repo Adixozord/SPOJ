@@ -42,6 +42,7 @@ Sphere online judge challenges and riddles
 |17102|[Fun With Sequences (Act 1)](https://www.spoj.com/problems/SMPSEQ3/)|[FunWithSequences.java](https://github.com/Adixozord/SPOJ/blob/master/FunWithSequences.java)|
 |17103|[Fun With Sequences (Act 2)](https://www.spoj.com/problems/SMPSEQ4/)|[FunWithSequences2.java](https://github.com/Adixozord/SPOJ/blob/master/FunWithSequences2.java)|
 |17104|[Fun With Sequences (Act 3)](https://www.spoj.com/problems/SMPSEQ5/)|[FunWithSequences3.java](https://github.com/Adixozord/SPOJ/blob/master/FunWithSequences3.java)|
+|17126|[Fun With Sequences (Act 4)](https://www.spoj.com/problems/SMPSEQ6/)|[FunWithSequences4.java](https://github.com/Adixozord/SPOJ/blob/master/FunWithSequences4.java)|
 |17921|[XOR](https://www.spoj.com/problems/BSCXOR/)|[XOR.java](https://github.com/Adixozord/SPOJ/blob/master/XOR.java)|
-|17994|[Cross Pattern](https://www.spoj.com/problems/PCROSS1/)|[CrossPattern.java](https://github.com/Adixozord/SPOJ/blob/master/CrossPattern.java)|
+17994|[Cross Pattern](https://www.spoj.com/problems/PCROSS1/)|[CrossPattern.java](https://github.com/Adixozord/SPOJ/blob/master/CrossPattern.java)|
  
