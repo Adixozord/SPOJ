@@ -1,4 +1,4 @@
-# SPOJ
+# SPOJ - Java solutions
 
 Sphere online judge challenges and riddles
 
