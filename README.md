@@ -14,7 +14,7 @@ Sphere online judge challenges and riddles
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
 |438|[PRIME_T](https://pl.spoj.com/problems/PRIME_T/)|[PrimeChecker.java](https://github.com/Adixozord/SPOJ/blob/master/PrimeChecker.java)|
 |496|[Dwie cyfry silni](https://pl.spoj.com/problems/FCTRL3/)|[Factorial.java](https://github.com/Adixozord/SPOJ/blob/master/Factorial.java)|
-|499|[Czy umiesz potęgować](https://pl.spoj.com/problems/PA05_POT/)|[CanYouPow.java]|(https://github.com/Adixozord/SPOJ/blob/master/CanYouPow.java)|
+|499|[Czy umiesz potęgować](https://pl.spoj.com/problems/PA05_POT/)|[CanYouPow.java](https://github.com/Adixozord/SPOJ/blob/master/CanYouPow.java)|
 |506|[Flamaster](https://pl.spoj.com/problems/FLAMASTE/)|[Flamaster.java](https://github.com/Adixozord/SPOJ/blob/master/Flamaster.java)|
 |522|[Przedszkolanka](https://pl.spoj.com/problems/PRZEDSZK/)|[Przedszkolanka.java](https://github.com/Adixozord/SPOJ/blob/master/Przedszkolanka.java)|
 |549|[Proste dodawanie](https://pl.spoj.com/problems/RNO_DOD/)|[Sumator.java](https://github.com/Adixozord/SPOJ/blob/master/Sumator.java)|
