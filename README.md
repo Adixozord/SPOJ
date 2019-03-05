@@ -28,8 +28,10 @@ Sphere online judge challenges and riddles
 |997|[Calculator](https://pl.spoj.com/problems/CALC/)|[Calc.java](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
 |1025|[Fashion Shows](https://www.spoj.com/problems/FASHION/)|[FashionShows.java](https://github.com/Adixozord/SPOJ/blob/master/FashionShows.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
+|2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
 |4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
+|7974|[What's Next?](https://www.spoj.com/problems/ACPC10A/)|[WhatsNext.java](https://github.com/Adixozord/SPOJ/blob/master/WhatsNext.java)|
 |8061|[Christmas Play](https://www.spoj.com/problems/AMR10G/)|[ChristmasPlay.java](https://github.com/Adixozord/SPOJ/blob/master/ChristmasPlay.java)|
 |12156|[HalfOfTheHalf](https://www.spoj.com/problems/STRHH/)|[HalfOfTheHalf.java](https://github.com/Adixozord/SPOJ/blob/master/HalfOfTheHalf.java)|
 |12205|[MinimumBoundingRectangle](https://www.spoj.com/problems/HS12MBR/)|[MinimumBoundingRectangle.java](https://github.com/Adixozord/SPOJ/blob/master/MinimumBoundingRectangle.java)|
