@@ -12,6 +12,7 @@ Sphere online judge challenges and riddles
 |6|[Simple Arithmetics](https://www.spoj.com/problems/ARITH/)|[SimpleArithmetics.java](https://github.com/Adixozord/SPOJ/blob/master/SimpleArithmetics.java)|
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
+|302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
 |438|[PRIME_T](https://pl.spoj.com/problems/PRIME_T/)|[PrimeChecker.java](https://github.com/Adixozord/SPOJ/blob/master/PrimeChecker.java)|
 |496|[Dwie cyfry silni](https://pl.spoj.com/problems/FCTRL3/)|[Factorial.java](https://github.com/Adixozord/SPOJ/blob/master/Factorial.java)|
 |499|[Czy umiesz potęgować](https://pl.spoj.com/problems/PA05_POT/)|[CanYouPow.java](https://github.com/Adixozord/SPOJ/blob/master/CanYouPow.java)|
@@ -25,8 +26,11 @@ Sphere online judge challenges and riddles
 |663|[Sort1](https://pl.spoj.com/problems/PP0506A/)|[Sort1.java](https://github.com/Adixozord/SPOJ/blob/master/Sort1.java)|
 |675|[SkarbFinder](https://pl.spoj.com/problems/SKARBFI/)|[TreasureFinder.java](https://github.com/Adixozord/SPOJ/blob/master/TreasureFinder.java)|
 |997|[Calculator](https://pl.spoj.com/problems/CALC/)|[Calc.java](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
+|1025|[Fashion Shows](https://www.spoj.com/problems/FASHION/)|[FashionShows.java](https://github.com/Adixozord/SPOJ/blob/master/FashionShows.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
+|4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
+|8061|[Christmas Play](https://www.spoj.com/problems/AMR10G/)|[ChristmasPlay.java](https://github.com/Adixozord/SPOJ/blob/master/ChristmasPlay.java)|
 |12156|[HalfOfTheHalf](https://www.spoj.com/problems/STRHH/)|[HalfOfTheHalf.java](https://github.com/Adixozord/SPOJ/blob/master/HalfOfTheHalf.java)|
 |12205|[MinimumBoundingRectangle](https://www.spoj.com/problems/HS12MBR/)|[MinimumBoundingRectangle.java](https://github.com/Adixozord/SPOJ/blob/master/MinimumBoundingRectangle.java)|
 |12176|[Character Patterns (Act 1)](https://www.spoj.com/problems/CPTTRN1/)|[NestedLoops1.java](https://github.com/Adixozord/SPOJ/blob/master/NestedLoops1.java)|
