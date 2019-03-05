@@ -31,6 +31,7 @@ Sphere online judge challenges and riddles
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
 |4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
+|5449|[Seinfeld](https://www.spoj.com/problems/ANARC09A/)|[Seinfeld.java](https://github.com/Adixozord/SPOJ/blob/master/Seinfeld.java)|
 |7974|[What's Next?](https://www.spoj.com/problems/ACPC10A/)|[WhatsNext.java](https://github.com/Adixozord/SPOJ/blob/master/WhatsNext.java)|
 |8061|[Christmas Play](https://www.spoj.com/problems/AMR10G/)|[ChristmasPlay.java](https://github.com/Adixozord/SPOJ/blob/master/ChristmasPlay.java)|
 |12156|[HalfOfTheHalf](https://www.spoj.com/problems/STRHH/)|[HalfOfTheHalf.java](https://github.com/Adixozord/SPOJ/blob/master/HalfOfTheHalf.java)|
