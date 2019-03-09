@@ -28,6 +28,7 @@ Sphere online judge challenges and riddles
 |675|[SkarbFinder](https://pl.spoj.com/problems/SKARBFI/)|[TreasureFinder.java](https://github.com/Adixozord/SPOJ/blob/master/TreasureFinder.java)|
 |997|[Calculator](https://pl.spoj.com/problems/CALC/)|[Calc.java](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
 |1025|[Fashion Shows](https://www.spoj.com/problems/FASHION/)|[FashionShows.java](https://github.com/Adixozord/SPOJ/blob/master/FashionShows.java)|
+|1028|[Hubulullu](https://www.spoj.com/problems/HUBULLU/)|[Hubullu.java](https://github.com/Adixozord/SPOJ/blob/master/Hubullu.java)|
 |1419|[A Game With Numbers](https://www.spoj.com/problems/NGM/)|[GameWithNums.java](https://github.com/Adixozord/SPOJ/blob/master/GameWithNums.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
