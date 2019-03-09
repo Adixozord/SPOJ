@@ -13,6 +13,7 @@ Sphere online judge challenges and riddles
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
+|154|[Sweet and Sour Rock](https://www.spoj.com/problems/ROCK/)|[RockSplitter.java](https://github.com/Adixozord/SPOJ/blob/master/RockSplitter.java)|
 |302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
 |438|[PRIME_T](https://pl.spoj.com/problems/PRIME_T/)|[PrimeChecker.java](https://github.com/Adixozord/SPOJ/blob/master/PrimeChecker.java)|
 |496|[Dwie cyfry silni](https://pl.spoj.com/problems/FCTRL3/)|[Factorial.java](https://github.com/Adixozord/SPOJ/blob/master/Factorial.java)|
@@ -37,6 +38,7 @@ Sphere online judge challenges and riddles
 |5449|[Seinfeld](https://www.spoj.com/problems/ANARC09A/)|[Seinfeld.java](https://github.com/Adixozord/SPOJ/blob/master/Seinfeld.java)|
 |7974|[What's Next?](https://www.spoj.com/problems/ACPC10A/)|[WhatsNext.java](https://github.com/Adixozord/SPOJ/blob/master/WhatsNext.java)|
 |8061|[Christmas Play](https://www.spoj.com/problems/AMR10G/)|[ChristmasPlay.java](https://github.com/Adixozord/SPOJ/blob/master/ChristmasPlay.java)|
+|8612|[Penney Game](https://www.spoj.com/problems/NY10A/)|[PenneyGame.java](https://github.com/Adixozord/SPOJ/blob/master/PenneyGame.java)|
 |12156|[HalfOfTheHalf](https://www.spoj.com/problems/STRHH/)|[HalfOfTheHalf.java](https://github.com/Adixozord/SPOJ/blob/master/HalfOfTheHalf.java)|
 |12205|[MinimumBoundingRectangle](https://www.spoj.com/problems/HS12MBR/)|[MinimumBoundingRectangle.java](https://github.com/Adixozord/SPOJ/blob/master/MinimumBoundingRectangle.java)|
 |12176|[Character Patterns (Act 1)](https://www.spoj.com/problems/CPTTRN1/)|[NestedLoops1.java](https://github.com/Adixozord/SPOJ/blob/master/NestedLoops1.java)|
