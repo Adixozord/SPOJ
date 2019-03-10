@@ -12,7 +12,8 @@ Sphere online judge challenges and riddles
 |6|[Simple Arithmetics](https://www.spoj.com/problems/ARITH/)|[SimpleArithmetics.java](https://github.com/Adixozord/SPOJ/blob/master/SimpleArithmetics.java)|
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
-|39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
+|39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank.java](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
+|74|[Divisor Summation](https://www.spoj.com/problems/DIVSUM/)|[DivisorSummation.java](https://github.com/Adixozord/SPOJ/blob/master/DivisorSummation.java)|
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
 |154|[Sweet and Sour Rock](https://www.spoj.com/problems/ROCK/)|[RockSplitter.java](https://github.com/Adixozord/SPOJ/blob/master/RockSplitter.java)|
 |302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
