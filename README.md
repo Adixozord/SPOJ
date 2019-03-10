@@ -1,7 +1,7 @@
 # SPOJ - Java solutions
 
 Sphere online judge challenges and riddles
-
+<!-- template ||[]()|[](https://github.com/Adixozord/SPOJ/blob/master/)| -->
 ##
 | ID        | Challenge                            | Code                                                              |
 | ----------------------- | :---------------------------------- | :------------------------------------------------------- |
@@ -12,9 +12,11 @@ Sphere online judge challenges and riddles
 |6|[Simple Arithmetics](https://www.spoj.com/problems/ARITH/)|[SimpleArithmetics.java](https://github.com/Adixozord/SPOJ/blob/master/SimpleArithmetics.java)|
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
+|39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
 |154|[Sweet and Sour Rock](https://www.spoj.com/problems/ROCK/)|[RockSplitter.java](https://github.com/Adixozord/SPOJ/blob/master/RockSplitter.java)|
 |302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
+|394|[Alphacode](https://www.spoj.com/problems/ACODE/)|[Alphacode.java](https://github.com/Adixozord/SPOJ/blob/master/Alphacode.java)|
 |438|[PRIME_T](https://pl.spoj.com/problems/PRIME_T/)|[PrimeChecker.java](https://github.com/Adixozord/SPOJ/blob/master/PrimeChecker.java)|
 |496|[Dwie cyfry silni](https://pl.spoj.com/problems/FCTRL3/)|[Factorial.java](https://github.com/Adixozord/SPOJ/blob/master/Factorial.java)|
 |499|[Czy umiesz potęgować](https://pl.spoj.com/problems/PA05_POT/)|[CanYouPow.java](https://github.com/Adixozord/SPOJ/blob/master/CanYouPow.java)|
@@ -30,6 +32,7 @@ Sphere online judge challenges and riddles
 |997|[Calculator](https://pl.spoj.com/problems/CALC/)|[Calc.java](https://github.com/Adixozord/SPOJ/blob/master/Calc.java) |
 |1025|[Fashion Shows](https://www.spoj.com/problems/FASHION/)|[FashionShows.java](https://github.com/Adixozord/SPOJ/blob/master/FashionShows.java)|
 |1028|[Hubulullu](https://www.spoj.com/problems/HUBULLU/)|[Hubullu.java](https://github.com/Adixozord/SPOJ/blob/master/Hubullu.java)|
+|1238|[Special Nim Game](https://www.spoj.com/problems/NIMGAME/)|[NimGame.java](https://github.com/Adixozord/SPOJ/blob/master/NimGame.java)|
 |1419|[A Game With Numbers](https://www.spoj.com/problems/NGM/)|[GameWithNums.java](https://github.com/Adixozord/SPOJ/blob/master/GameWithNums.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
