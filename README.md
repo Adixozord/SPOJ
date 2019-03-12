@@ -2,6 +2,7 @@
 
 Sphere online judge challenges and riddles
 <!-- template ||[]()|[](https://github.com/Adixozord/SPOJ/blob/master/)| -->
+
 ##
 | ID        | Challenge                            | Code                                                              |
 | ----------------------- | :---------------------------------- | :------------------------------------------------------- |
@@ -17,6 +18,7 @@ Sphere online judge challenges and riddles
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
 |154|[Sweet and Sour Rock](https://www.spoj.com/problems/ROCK/)|[RockSplitter.java](https://github.com/Adixozord/SPOJ/blob/master/RockSplitter.java)|
 |302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
+|376|[A concrete simulation](https://www.spoj.com/problems/ACS/)|[ConcreteSimulation.java](https://github.com/Adixozord/SPOJ/blob/master/ConcreteSimulation.java)|
 |394|[Alphacode](https://www.spoj.com/problems/ACODE/)|[Alphacode.java](https://github.com/Adixozord/SPOJ/blob/master/Alphacode.java)|
 |438|[PRIME_T](https://pl.spoj.com/problems/PRIME_T/)|[PrimeChecker.java](https://github.com/Adixozord/SPOJ/blob/master/PrimeChecker.java)|
 |496|[Dwie cyfry silni](https://pl.spoj.com/problems/FCTRL3/)|[Factorial.java](https://github.com/Adixozord/SPOJ/blob/master/Factorial.java)|
@@ -34,12 +36,16 @@ Sphere online judge challenges and riddles
 |1025|[Fashion Shows](https://www.spoj.com/problems/FASHION/)|[FashionShows.java](https://github.com/Adixozord/SPOJ/blob/master/FashionShows.java)|
 |1028|[Hubulullu](https://www.spoj.com/problems/HUBULLU/)|[Hubullu.java](https://github.com/Adixozord/SPOJ/blob/master/Hubullu.java)|
 |1238|[Special Nim Game](https://www.spoj.com/problems/NIMGAME/)|[NimGame.java](https://github.com/Adixozord/SPOJ/blob/master/NimGame.java)|
+|1410|[GLJIVE](https://www.spoj.com/problems/GLJIVE/)|[Mushrooms.java](https://github.com/Adixozord/SPOJ/blob/master/Mushrooms.java)|
 |1419|[A Game With Numbers](https://www.spoj.com/problems/NGM/)|[GameWithNums.java](https://github.com/Adixozord/SPOJ/blob/master/GameWithNums.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
+|2157|[Anti-Blot System](https://www.spoj.com/problems/ABSYS/)|[Anti8lotSystem.java](https://github.com/Adixozord/SPOJ/blob/master/Anti8lotSystem.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
 |4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
+|4549|[Adding Sevens](https://www.spoj.com/problems/ANARC08B/)|[AddingSevens.java](https://github.com/Adixozord/SPOJ/blob/master/AddingSevens.java)|
 |5449|[Seinfeld](https://www.spoj.com/problems/ANARC09A/)|[Seinfeld.java](https://github.com/Adixozord/SPOJ/blob/master/Seinfeld.java)|
+|5978|[Frequent Prime Ranges](https://www.spoj.com/problems/FRQPRIME/)|[FrequentPrimeRanges.java](https://github.com/Adixozord/SPOJ/blob/master/FrequentPrimeRanges.java)|
 |7974|[What's Next?](https://www.spoj.com/problems/ACPC10A/)|[WhatsNext.java](https://github.com/Adixozord/SPOJ/blob/master/WhatsNext.java)|
 |8061|[Christmas Play](https://www.spoj.com/problems/AMR10G/)|[ChristmasPlay.java](https://github.com/Adixozord/SPOJ/blob/master/ChristmasPlay.java)|
 |8612|[Penney Game](https://www.spoj.com/problems/NY10A/)|[PenneyGame.java](https://github.com/Adixozord/SPOJ/blob/master/PenneyGame.java)|
