@@ -42,6 +42,7 @@ Sphere online judge challenges and riddles
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
 |2157|[Anti-Blot System](https://www.spoj.com/problems/ABSYS/)|[Anti8lotSystem.java](https://github.com/Adixozord/SPOJ/blob/master/Anti8lotSystem.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
+|4300|[Rectangles](https://www.spoj.com/problems/AE00/)|[Rectangles.java](https://github.com/Adixozord/SPOJ/blob/master/Rectangles.java)|
 |4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
 |4549|[Adding Sevens](https://www.spoj.com/problems/ANARC08B/)|[AddingSevens.java](https://github.com/Adixozord/SPOJ/blob/master/AddingSevens.java)|
 |5449|[Seinfeld](https://www.spoj.com/problems/ANARC09A/)|[Seinfeld.java](https://github.com/Adixozord/SPOJ/blob/master/Seinfeld.java)|
