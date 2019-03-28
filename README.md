@@ -16,6 +16,7 @@ Sphere online judge challenges and riddles
 |39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank.java](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
 |74|[Divisor Summation](https://www.spoj.com/problems/DIVSUM/)|[DivisorSummation.java](https://github.com/Adixozord/SPOJ/blob/master/DivisorSummation.java)|
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
+|123|[Paying in Byteland](https://www.spoj.com/problems/PAYING/)|[PayingInBytelandian.java](https://github.com/Adixozord/SPOJ/blob/master/PayingInBytelandian.java)|
 |154|[Sweet and Sour Rock](https://www.spoj.com/problems/ROCK/)|[RockSplitter.java](https://github.com/Adixozord/SPOJ/blob/master/RockSplitter.java)|
 |302|[Count On Cantor](https://www.spoj.com/problems/CANTON/)|[Cantor.java](https://github.com/Adixozord/SPOJ/blob/master/Cantor.java)|
 |376|[A concrete simulation](https://www.spoj.com/problems/ACS/)|[ConcreteSimulation.java](https://github.com/Adixozord/SPOJ/blob/master/ConcreteSimulation.java)|
