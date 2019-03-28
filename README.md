@@ -12,6 +12,7 @@ Sphere online judge challenges and riddles
 |5|[The Next Palindrome](https://www.spoj.com/problems/PALIN/)|[NextPalindrome.java](https://github.com/Adixozord/SPOJ/blob/master/NextPalindrome.java)|
 |6|[Simple Arithmetics](https://www.spoj.com/problems/ARITH/)|[SimpleArithmetics.java](https://github.com/Adixozord/SPOJ/blob/master/SimpleArithmetics.java)|
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
+|23|[Pyramids](https://www.spoj.com/problems/PIR/)|[Pyramids.java](https://github.com/Adixozord/SPOJ/blob/master/Pyramids.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
 |25|[Pouring Water](https://www.spoj.com/problems/POUR1/)|[Pour1.java](https://github.com/Adixozord/SPOJ/blob/master/Pour1.java)|
 |39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank.java](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
