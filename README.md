@@ -45,6 +45,7 @@ Sphere online judge challenges and riddles
 |4300|[Rectangles](https://www.spoj.com/problems/AE00/)|[Rectangles.java](https://github.com/Adixozord/SPOJ/blob/master/Rectangles.java)|
 |4408|[Build a Fence](https://www.spoj.com/problems/FENCE1/)|[Fence1.java](https://github.com/Adixozord/SPOJ/blob/master/Fence1.java)|
 |4549|[Adding Sevens](https://www.spoj.com/problems/ANARC08B/)|[AddingSevens.java](https://github.com/Adixozord/SPOJ/blob/master/AddingSevens.java)|
+|4564|[Chop Ahoy! Revisited!](https://www.spoj.com/problems/ANARC05H/)|[ChopAhoy.java](https://github.com/Adixozord/SPOJ/blob/master/ChopAhoy.java)|
 |5449|[Seinfeld](https://www.spoj.com/problems/ANARC09A/)|[Seinfeld.java](https://github.com/Adixozord/SPOJ/blob/master/Seinfeld.java)|
 |5978|[Frequent Prime Ranges](https://www.spoj.com/problems/FRQPRIME/)|[FrequentPrimeRanges.java](https://github.com/Adixozord/SPOJ/blob/master/FrequentPrimeRanges.java)|
 |7974|[What's Next?](https://www.spoj.com/problems/ACPC10A/)|[WhatsNext.java](https://github.com/Adixozord/SPOJ/blob/master/WhatsNext.java)|
