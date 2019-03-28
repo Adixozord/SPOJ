@@ -13,6 +13,7 @@ Sphere online judge challenges and riddles
 |6|[Simple Arithmetics](https://www.spoj.com/problems/ARITH/)|[SimpleArithmetics.java](https://github.com/Adixozord/SPOJ/blob/master/SimpleArithmetics.java)|
 |11|[Factorial](https://www.spoj.com/problems/FCTRL/)|[TrickyFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/TrickyFactorial.java)|
 |24|[Small Factorials](https://www.spoj.com/problems/FCTRL2/)|[SmallFactorial.java](https://github.com/Adixozord/SPOJ/blob/master/SmallFactorial.java)|
+|25|[Pouring Water](https://www.spoj.com/problems/POUR1/)|[Pour1.java](https://github.com/Adixozord/SPOJ/blob/master/Pour1.java)|
 |39|[Piggy-Bank](https://www.spoj.com/problems/PIGBANK/)|[Piggy8ank.java](https://github.com/Adixozord/SPOJ/blob/master/Piggy8ank.java)|
 |74|[Divisor Summation](https://www.spoj.com/problems/DIVSUM/)|[DivisorSummation.java](https://github.com/Adixozord/SPOJ/blob/master/DivisorSummation.java)|
 |78|[Marbles](https://www.spoj.com/problems/MARBLES/)|[Marbless.java](https://github.com/Adixozord/SPOJ/blob/master/Marbless.java)|
