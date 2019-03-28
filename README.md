@@ -40,6 +40,7 @@ Sphere online judge challenges and riddles
 |1419|[A Game With Numbers](https://www.spoj.com/problems/NGM/)|[GameWithNums.java](https://github.com/Adixozord/SPOJ/blob/master/GameWithNums.java)|
 |1711|[GCD](https://www.spoj.com/problems/GCD/)|[GreatestCommonDivisor.java](https://github.com/Adixozord/SPOJ/blob/master/GreatestCommonDivisor.java)|
 |2123|[Candy](https://www.spoj.com/problems/CANDY/)|[Candy1.java](https://github.com/Adixozord/SPOJ/blob/master/Candy1.java)|
+|2148|[Candy III](https://www.spoj.com/problems/CANDY3/)|[Candy3.java](https://github.com/Adixozord/SPOJ/blob/master/Candy3.java)|
 |2157|[Anti-Blot System](https://www.spoj.com/problems/ABSYS/)|[Anti8lotSystem.java](https://github.com/Adixozord/SPOJ/blob/master/Anti8lotSystem.java)|
 |2730|[Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)|[AnswerToLife.java](https://github.com/Adixozord/SPOJ/blob/master/AnswerToLifeInteractive.java)|
 |4300|[Rectangles](https://www.spoj.com/problems/AE00/)|[Rectangles.java](https://github.com/Adixozord/SPOJ/blob/master/Rectangles.java)|
